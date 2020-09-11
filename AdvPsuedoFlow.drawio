@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T16:40:45.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="JyytBNBPo06fvAszKkfp" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T16:41:44.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="hUwJMHaJ7IBv0tznyGmb" version="13.6.9" type="github">
   <diagram id="ni7qQaf_fB1tniAwRtNp" name="Page-1">
     <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,8 +90,14 @@
         <mxCell id="m9BW8e9yrHPexQuClSIB-33" value="calculate balance at the end of each year for 4 years" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="m9BW8e9yrHPexQuClSIB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9BW8e9yrHPexQuClSIB-35" target="m9BW8e9yrHPexQuClSIB-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m9BW8e9yrHPexQuClSIB-35" value="Display each calculation using format:&lt;br&gt;&amp;nbsp;&quot;year 0:__ &lt;br&gt;year 1:__ &lt;br&gt;year 2:__ &lt;br&gt;year 3:__&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="950" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m9BW8e9yrHPexQuClSIB-37" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="955" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
